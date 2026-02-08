@@ -1,0 +1,19 @@
+REST API
+- JSON based API
+
+making this Rest Api hybrid for different device usage
+
+Get /users - HTML Document Render
+GET /api/users - List all users [Harsh, Aditya, Ram]
+Get /api/user/1 - get the user with id = 1 like Harsh
+
+POST /api/users - create the new user 
+
+Patch /api/users/1 - Edit the users credentials
+
+Dynamaic path paramenters like /pai/user/:id - change acc to user id 
+Get the user detail id
+
+Delete /api/users/1 - Delete the user with id = 1
+
+// failed to append new data ww'll be trying this tomorrow again

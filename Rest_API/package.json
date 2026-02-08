@@ -1,0 +1,15 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "learning about rest api's",
+  "main": "RestFulApi.js",
+  "scripts": {
+    "start": "node RestFulApi.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

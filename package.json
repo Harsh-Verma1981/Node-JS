@@ -1,0 +1,23 @@
+{
+  "name": "harshscript",
+  "version": "1.0.0",
+  "description": "to run the http server using json",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon Work_With_Mongo.js"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "coder",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.4",
+    "nodemon": "^3.1.11",
+    "socket.io": "^4.8.3",
+    "url": "^0.11.4",
+    "ws": "^8.18.3"
+  }
+}

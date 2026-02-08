@@ -1,0 +1,34 @@
+1762188772474: / New Request Received
+1762188776369: /about/ New Request Received
+1762188780036: /about New Request Received
+1762188842116: GET : / New Request Received
+1762188858989: GET : /search?search_query=How+to+grow+plants New Request Received
+1762189181448: GET : /signup New Request Received
+1762189214368: GET : /signup New Request Received
+
+// versioning 
+
+^5.1.0
+
+1. Major version : advice not to change during a project this can lead to bugs and errors
+2. recommended version  : advice to update to the latest version
+3. Minor version change : depends on user choice to update it or not as have minor change in the package
+
+^5.1.0
+refers to update to any version from 5.0.0 to 5.99.99 
+
+~5.1.0
+refers to 
+1767618806525: GET : / New Request Received
+1767618814000: GET : / New Request Received
+1767618844744: GET : /about?name=Harsh New Request Received
+1767618855321: GET : /about?name=Harsh&age=21 New Request Received
+1767618879452: GET : /about?age=21 New Request Received
+1767618887123: GET : /about?name=Harsh New Request Received
+1767618893798: GET : /about?name=Piyush New Request Received
+1767618902095: GET : /about?name=Piyush+Garg New Request Received
+1767618912597: GET : /about?name=Piyush+Garg+Kumar New Request Received
+1767618947791: GET : /search?how+to+grow+a+sunflower New Request Received
+1767619033236: GET : /search?how New Request Received
+1767619082857: GET : /search?query=how+to+study New Request Received
+1767619143020: GET : /search?search_query=how+to+study New Request Received
